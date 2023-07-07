@@ -29,7 +29,7 @@
   },
   {
     "name": "NodeJS",
-    "ring": "trial",
+    "ring": "adopt",
     "quadrant": "Languages and Frameworks",
     "isNew": "FALSE",
     "description": "Easy to use and suppport async"
