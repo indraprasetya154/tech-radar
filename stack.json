@@ -24,7 +24,7 @@
     "name": "Nats",
     "ring": "trial",
     "quadrant": "Platforms",
-    "isNew": true,
+    "isNew": "TRUE",
     "description": "Easy setup and more simplify"
   },
   {
@@ -101,7 +101,7 @@
     "name": "Unleash",
     "ring": "assess",
     "quadrant": "Tools",
-    "isNew": true,
+    "isNew": "TRUE",
     "description": "Easy way for using feature flag"
   },
   {
