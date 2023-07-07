@@ -1,0 +1,114 @@
+[
+    {
+      "name": "Laravel",
+      "ring": "Framework",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Powerfull and have much library also supported by communinty"
+    },
+    {
+      "name": "Echo Framework",
+      "ring": "Framework",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Well documentation and most of requirement of building web application is provided on this framework"
+    },
+    {
+      "name": "PostgreSQL",
+      "ring": "Platform",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Strong relational database"
+    },
+    {
+      "name": "Nats",
+      "ring": "Platform",
+      "quadrant": "Trial",
+      "isNew": true,
+      "description": "Easy setup and more simplify"
+    },
+    {
+      "name": "NodeJS",
+      "ring": "Languange",
+      "quadrant": "Trial",
+      "isNew": false,
+      "description": "Easy to use and suppport async"
+    },
+    {
+      "name": "Golang",
+      "ring": "Languange",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Fast and structured, but need time to be expert"
+    },
+    {
+      "name": "Graphql",
+      "ring": "Tools",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Strong type, auto generate api document and client can filter what will used"
+    },
+    {
+      "name": "Elasticsearch",
+      "ring": "Platform",
+      "quadrant": "Trial",
+      "isNew": false,
+      "description": "Goof for complex search also good on performannce"
+    },
+    {
+      "name": "MongoDB",
+      "ring": "Platform",
+      "quadrant": "Trial",
+      "isNew": false,
+      "description": "Easy to use but not good in readable data and traditional relational data"
+    },
+    {
+      "name": "Logrus",
+      "ring": "Tools",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Recommended for logging in golang"
+    },
+    {
+      "name": "Redis",
+      "ring": "Tools",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Easy to use for caching, high impact less effort to improve performance"
+    },
+    {
+      "name": "AWS",
+      "ring": "Platform",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Well documentation and easy implemented (ex: golang)"
+    },
+    {
+      "name": "Docker",
+      "ring": "Platform",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "All backend application wrapped by docker images"
+    },
+    {
+      "name": "Codeigniter",
+      "ring": "Framework",
+      "quadrant": "Hold",
+      "isNew": false,
+      "description": "Support, documentation and community less than laravel"
+    },
+    {
+      "name": "Unleash",
+      "ring": "Tools",
+      "quadrant": "Assess",
+      "isNew": true,
+      "description": "Easy way for using feature flag"
+    },
+    {
+      "name": "MySQL",
+      "ring": "Platform",
+      "quadrant": "Adopt",
+      "isNew": false,
+      "description": "Simple to use and use it if not complex relational database"
+    }
+]
